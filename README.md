@@ -19,9 +19,8 @@ You can download the latest compiled binaries of the application from the **[Rel
 | Platform  | Download Link |
 |-----------|--------------|
 |  **Windows** | [Download for Windows](https://github.com/ITSHahrad/altv-masterlist-app/releases/latest) |
-|  **Linux**   | [Download for Linux](https://github.com/ITSHahrad/altv-masterlist-app/releases/latest) |
 
-> ⚠ **Note:** macOS builds are not yet available; please build from source on macOS.
+> ⚠ **Note:** macOS & Linux builds are not yet available; please build from source on macOS or Linux.
 
 ---
 
